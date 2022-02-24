@@ -19,9 +19,9 @@ ___logo___ = (f"""{H} ___ ___ ___ __  __ ___ _   _ __  __
 {B}|  _/   / _|| |\/| || || |_| | |\/| |
 {B}|_| |_|_\___|_|  |_|___|\___/|_|  |_|
 {K}[{P}•{K}]{P}——————————————————————————————
-{H}[{P}>{H}]{P} Au : rozhak
-{H}[{P}>{H}]{P} Ig : @rozhak_official
-{H}[{P}>{H}]{P} Fb : fb.com/rozhak.xyz
+{H}[{P}>{H}]{P} Au :
+{H}[{P}>{H}]{P} Ig :
+{H}[{P}>{H}]{P} Fb : 
 {K}[{P}•{K}]{P}——————————————————————————————
 """)
 # Login Cookie
@@ -312,7 +312,7 @@ class ___crack___:
         self.cp = []
         print(f"\n{H}[{P}1{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama12345{H}]{K}")
         print(f"{H}[{P}2{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama1234, nama12345{H}]{K}")
-        print(f"{H}[{P}3{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama1234, nama12345, nama123456{H}]{K}")
+        print(f"{H}[{P}3{H}]{P} Gunakan Password {H}[{K}nama12, nama123, nama1234, nama12345, nama123456{H}]{K}")
         print(f"{H}[{P}4{H}]{P} Gunakan Password Manual {H}[{K}>5{H}]{K}\n")
         ___pilih = input(f"{B}[{P}?{B}]{P} Pilih :{H} ")
         if ___pilih in ['4','04']:
